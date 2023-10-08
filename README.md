@@ -42,4 +42,4 @@ Você pode usar o código fornecido no método `main` do arquivo `Iphone.java` p
 
 ## Licença
 
-Este projeto está licenciado sob a MIT License.
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
